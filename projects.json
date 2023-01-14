@@ -3,7 +3,10 @@
     "typescript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/typescript.svg",
     "figma": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/figma.svg",
     "svelte": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/svelte.svg",
-    "sass": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/sass.svg"
+    "sass": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/sass.svg",
+    "html": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/html.svg",
+    "css": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/css.svg",
+    "javascript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/javascript.svg"
   },
   "projects": [
     {
@@ -13,6 +16,13 @@
       "link": "https://lynith.dev/",
       "repository": "https://github.com/LynithDev/lynithdev.github.io"
     },
+    {
+      "name": "Weather App",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/weather.jpg",
+      "icons": ["html", "css", "javascript"],
+      "link": "https://weather.lynith.dev/",
+      "repository": "https://github.com/LynithDev/weather"
+    }
     {
       "name": "Webimate",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/webimate.jpg",
