@@ -22,7 +22,7 @@
       "icons": ["html", "css", "javascript"],
       "link": "https://weather.lynith.dev/",
       "repository": "https://github.com/LynithDev/weather"
-    }
+    },
     {
       "name": "Webimate",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/webimate.jpg",
