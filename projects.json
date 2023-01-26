@@ -40,7 +40,7 @@
     {
       "name": "Lilith Website",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/lilith.png",
-      "icons": ["figma", "typescript", "nextjs"],
+      "icons": ["figma", "typescript"],
       "link": "https://lilith.rip/",
       "repository": ""
     }
