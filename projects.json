@@ -1,46 +1,57 @@
 {
   "icons": {
-    "typescript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/typescript.svg",
-    "figma": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/figma.svg",
-    "svelte": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/svelte.svg",
-    "sass": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/sass.svg",
-    "html": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/html.svg",
-    "css": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/css.svg",
-    "javascript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/javascript.svg"
+    "typescript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/typescript.svg",
+    "figma": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/figma.svg",
+    "svelte": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/svelte.svg",
+    "sass": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/sass.svg",
+    "html": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/html.svg",
+    "css": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/css.svg",
+    "rust": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/rust.svg",
+    "react": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/react.svg",
+    "nextjs": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/nextjs.svg",
+    "go": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/go.svg",
+    "java": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/java.svg",
+    "javascript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/javascript.svg"
+  },
+  "socials": {
+    "discord": "Lynith#0231",
+    "reddit": "lynithdev",
+    "github": "LynithDev",
+    "email": "me@lynith.dev"
   },
   "projects": [
     {
       "name": "My Website",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/lynith.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.jpg",
       "icons": ["typescript", "svelte", "figma"],
       "link": "https://lynith.dev/",
       "repository": "https://github.com/LynithDev/lynithdev.github.io"
     },
     {
       "name": "Weather App",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/weather.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/weather.jpg",
       "icons": ["html", "css", "javascript"],
       "link": "https://weather.lynith.dev/",
       "repository": "https://github.com/LynithDev/weather"
     },
     {
       "name": "Webimate",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/webimate.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/webimate.jpg",
       "icons": ["typescript", "sass"],
       "link": "https://github.com/LynithDev/webimate-lib",
       "repository": "https://github.com/LynithDev/webimate-lib"
     },
     {
       "name": "qewer33's Portfolio",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/qewer.png",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/qewer.png",
       "icons": ["figma"],
       "link": "https://qewer.dev/",
       "repository": "https://github.com/qewer33/qewer33.github.io"
     },
     {
       "name": "Lilith Website",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/lilith.png",
-      "icons": ["figma", "typescript"],
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lilith.png",
+      "icons": ["figma", "typescript", "nextjs"],
       "link": "https://lilith.rip/",
       "repository": ""
     }
