@@ -35,6 +35,13 @@
       "repository": "https://github.com/LynithDev/weather"
     },
     {
+      "name": "Multithreaded HTTP Router",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/http.png",
+      "icons": ["rust"],
+      "link": "https://github.com/LynithDev/multithreaded-http-router",
+      "repository": "https://github.com/LynithDev/multithreaded-http-router"
+    },
+    {
       "name": "Webimate",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/webimate.jpg",
       "icons": ["typescript", "sass"],
