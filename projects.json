@@ -28,6 +28,13 @@
       "repository": "https://github.com/LynithDev/lynithdev.github.io"
     },
     {
+      "name": "Multi Version MC Client",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/multiclient.png",
+      "icons": ["java"],
+      "link": "https://github.com/LynithDev/multiclient",
+      "repository": "https://github.com/LynithDev/multiclient"
+    },
+    {
       "name": "Weather App",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/weather.jpg",
       "icons": ["html", "css", "javascript"],
