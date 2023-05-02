@@ -28,6 +28,13 @@
       "repository": "https://github.com/LynithDev/lynithdev.github.io"
     },
     {
+      "name": "GNOME App Hider",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/gnome-app-hider.jpg",
+      "icons": ["javascript"],
+      "link": "https://extensions.gnome.org/extension/5895/app-hider/",
+      "repository": "https://github.com/LynithDev/gnome-app-hider"
+    },
+    {
       "name": "Multi Version MC Client",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/multiclient.png",
       "icons": ["java"],
