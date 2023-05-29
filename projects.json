@@ -22,6 +22,7 @@
   "projects": [
     {
       "name": "My Website",
+      "description": "My portfolio, most likely the website you're on right now!",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.jpg",
       "icons": ["typescript", "svelte", "figma"],
       "link": "https://lynith.dev/",
@@ -29,6 +30,7 @@
     },
     {
       "name": "GNOME App Hider",
+      "description": "Niche extension for GNOME shell.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/gnome-app-hider.jpg",
       "icons": ["javascript"],
       "link": "https://extensions.gnome.org/extension/5895/app-hider/",
@@ -36,6 +38,7 @@
     },
     {
       "name": "Multi Version MC Client",
+      "description": "Template for making a multi-version Minecraft client.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/multiclient.png",
       "icons": ["java"],
       "link": "https://github.com/LynithDev/multiclient",
@@ -43,6 +46,7 @@
     },
     {
       "name": "Weather App",
+      "description": "School project I decided to make public.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/weather.jpg",
       "icons": ["html", "css", "javascript"],
       "link": "https://weather.lynith.dev/",
@@ -50,20 +54,15 @@
     },
     {
       "name": "Multithreaded HTTP Router",
+      "description": "Project I made whilst learning about Rust. Similar to express.js.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/http.png",
       "icons": ["rust"],
       "link": "https://github.com/LynithDev/multithreaded-http-router",
       "repository": "https://github.com/LynithDev/multithreaded-http-router"
     },
     {
-      "name": "Webimate",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/webimate.jpg",
-      "icons": ["typescript", "sass"],
-      "link": "https://github.com/LynithDev/webimate-lib",
-      "repository": "https://github.com/LynithDev/webimate-lib"
-    },
-    {
       "name": "qewer33's Portfolio",
+      "description": "Website for a friend.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/qewer.png",
       "icons": ["figma"],
       "link": "https://qewer.dev/",
@@ -71,6 +70,7 @@
     },
     {
       "name": "Lilith Website",
+      "description": "My first commissioned + friend's website.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lilith.png",
       "icons": ["figma", "typescript", "nextjs"],
       "link": "https://lilith.rip/",
