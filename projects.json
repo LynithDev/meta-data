@@ -72,7 +72,7 @@
     },
     {
       "name": "Lilith Website",
-      "description": "My first commissioned + friend's website.",
+      "description": "A website I made for a friend's project.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lilith.png",
       "icons": ["figma", "typescript", "nextjs"],
       "link": "https://lilith.rip/",
