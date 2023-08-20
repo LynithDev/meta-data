@@ -14,7 +14,7 @@
     "javascript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/javascript.svg"
   },
   "socials": {
-    "discord": "Lynith#0231",
+    "discord": "lynithdev",
     "discordId": "507646181816401961",
     "reddit": "lynithdev",
     "github": "LynithDev",
@@ -25,10 +25,10 @@
     {
       "name": "My Website",
       "description": "My portfolio, most likely the website you're on right now!",
-      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.jpg",
-      "icons": ["typescript", "svelte", "figma"],
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.png",
+      "icons": ["typescript", "nextjs", "figma"],
       "link": "https://lynith.dev/",
-      "repository": "https://github.com/LynithDev/lynithdev.github.io"
+      "repository": "https://github.com/LynithDev/portfolio-rewrite"
     },
     {
       "name": "GNOME App Hider",
@@ -69,6 +69,14 @@
       "icons": ["figma"],
       "link": "https://qewer.dev/",
       "repository": "https://github.com/qewer33/qewer33.github.io"
+    },
+    {
+      "name": "Math Interpreter",
+      "description": "A custom language focused around math.",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/interpreted_math.png",
+      "icons": ["rust"],
+      "link": "https://qewer.dev/",
+      "repository": "https://github.com/LynithDev/interpreted-math"
     },
     {
       "name": "Lilith Website",
