@@ -81,6 +81,14 @@
       "repository": "https://github.com/LynithDev/interpreted-math"
     },
     {
+      "name": "Tic Tac Toe",
+      "description": "A minimalistic tic tac toe game.",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/tictactoe.png",
+      "icons": ["html", "css", "javascript"],
+      "link": "https://tictactoe.lynith.dev/",
+      "repository": "https://github.com/LynithDev/tictactoe"
+    },
+    {
       "name": "Lilith Website",
       "description": "A website I made for a friend's project.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lilith.png",
