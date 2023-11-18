@@ -26,7 +26,7 @@
       "name": "My Website",
       "description": "My portfolio, most likely the website you're on right now!",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.png",
-      "icons": ["typescript", "nextjs", "figma"],
+      "icons": ["typescript", "astro", "tailwindcss"],
       "link": "https://lynith.dev/",
       "repository": "https://github.com/LynithDev/portfolio-rewrite"
     },
@@ -75,7 +75,7 @@
       "description": "A custom language focused around math.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/interpreted_math.png",
       "icons": ["rust"],
-      "link": "https://qewer.dev/",
+      "link": "https://github.com/LynithDev/interpreted-math",
       "repository": "https://github.com/LynithDev/interpreted-math"
     },
     {
