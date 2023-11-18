@@ -13,7 +13,7 @@
     "java": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/java.svg",
     "javascript": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/javascript.svg",
     "astro": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/astro.svg",
-    "tailwindcss" "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/tailwindcss.svg"
+    "tailwindcss": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/icons/tailwindcss.svg"
   },
   "socials": {
     "discord": "lynithdev",
