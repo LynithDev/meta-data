@@ -30,7 +30,7 @@
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/lynith.png",
       "icons": ["typescript", "astro", "tailwindcss"],
       "link": "https://lynith.dev/",
-      "repository": "https://github.com/LynithDev/portfolio-rewrite"
+      "repository": "https://github.com/LynithDev/lynithdev.github.io"
     },
     {
       "name": "GNOME App Hider",
