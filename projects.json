@@ -42,6 +42,13 @@
       "repository": "https://github.com/Polyfrost/OneLauncher"
     },
     {
+      "name": "Meme Maker",
+      "description": "Simple and easy to use Meme Maker.",
+      "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/meme-maker.png",
+      "icons": ["typescript", "svelte", "tailwindcss"],
+      "link": "https://meme.lynith.dev/"
+    },
+    {
       "name": "GNOME App Hider",
       "description": "Niche extension for GNOME shell.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/gnome-app-hider.jpg",
