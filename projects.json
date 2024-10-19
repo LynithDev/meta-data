@@ -46,7 +46,8 @@
       "description": "Simple and easy to use Meme Maker.",
       "thumbnail": "https://raw.githubusercontent.com/LynithDev/meta-data/master/assets/previews/meme-maker.png",
       "icons": ["typescript", "svelte", "tailwindcss"],
-      "link": "https://meme.lynith.dev/"
+      "link": "https://meme.lynith.dev/",
+      "repository": "https://github.com/LynithDev/meme-maker"
     },
     {
       "name": "GNOME App Hider",
